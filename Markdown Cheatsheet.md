@@ -29,7 +29,11 @@
 	- item 2
 
 - [ ] Checklist
-	- [ ] item 
+	- [ ] item 1
+	- [ ] item2
+
+[Link Text](https:// actual)
+
 [[backlinks]] (you can also create it later)
 
 [link text](https://google.com)
