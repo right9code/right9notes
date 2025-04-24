@@ -25,7 +25,7 @@
 
 ==two equal signs highlight text==
 
-~~strike text with two Tylde~~
+~~strikethrough text with two Tylde~~
 
 
-
+- [ ]checklist
