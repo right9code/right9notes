@@ -52,9 +52,7 @@ code to be copied.
 
 ![alternate text just in case does not load](https://upload.wikimedia.org/wikipedia/en/9/9a/SenkuIshigami.jpg)
 
-![video](https://youtu.be/eFcdH93oFD8)
-
-
+![video](https://youtu.be/Eq6EYcpWB_c)
 
 
 
