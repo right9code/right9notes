@@ -28,4 +28,6 @@
 ~~strikethrough text with two Tylde~~
 
 
-- [ ] checklist with two big brackets
+- [ ] checklist with two big brackets put a x inside to cross
+
+
