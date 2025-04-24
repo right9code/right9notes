@@ -34,7 +34,10 @@
 [[backlinks]] (you can also create it later)
 
 
-|HEADER 1|HEADER2|HEADER
+| HEADER 1   | HEADER2    | HEADER3    |
+| ---------- | ---------- | ---------- |
+| Content1   | Content2   | Content3   |
+| Content1.1 | Content2.1 | Content3.1 |
 
 ![alternate text just in case does not load](https://upload.wikimedia.org/wikipedia/en/9/9a/SenkuIshigami.jpg)
 
