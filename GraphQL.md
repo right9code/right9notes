@@ -28,5 +28,5 @@ hello hello bhai
 
 - [ ] hello
 | syntax | description |
-|--| ---|
+| --- | --- | 
 |--|---|
