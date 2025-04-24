@@ -23,5 +23,9 @@
 
 [link text](https://google.com)
 
-==two equal signs
+==two equal signs highlight text==
+
+~~strike text with Tyndall~~
+
+
 
