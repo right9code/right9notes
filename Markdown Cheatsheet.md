@@ -25,7 +25,7 @@
 
 ==two equal signs highlight text==
 
-~~strike text with Tyndall~~
+~~strike text with two Tylde~~
 
 
 
