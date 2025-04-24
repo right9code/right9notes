@@ -32,16 +32,10 @@
 	- [ ] item 1
 	- [ ] item2
 
-[Link Text](https:// actual)
+[Link Text](https:// actuallink.com)
+
 
 [[backlinks]] (you can also create it later)
 
-[link text](https://google.com)
-==
-
-
-
-
-- [ ] checklist with two big brackets put a x inside to cross
-
+![]
 
