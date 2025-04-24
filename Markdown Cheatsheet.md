@@ -25,10 +25,11 @@
 	2. item 2
 
 - Unordered list
-	- item
-	- 
+	- item 1
+	- item 2
 
-
+- [ ] Checklist
+	- [ ] item 
 [[backlinks]] (you can also create it later)
 
 [link text](https://google.com)
