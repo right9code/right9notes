@@ -20,13 +20,13 @@
 
 ==two equal signs highlight text==
 
+1. Ordered list
+	1. item 1
+	2. item 2
 
-- it is a Bullet 1
-	- nested item with tab
+- Unordered list
+	- item
 	- 
-Ordered list
-1. ordered list 1
-2. ordered list 2
 
 
 [[backlinks]] (you can also create it later)
