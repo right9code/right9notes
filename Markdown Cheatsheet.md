@@ -9,4 +9,6 @@
 
 **BOLD TEXT**
 
-Itics
+*Italics*
+
+- it is a Bullet
