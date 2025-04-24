@@ -37,5 +37,5 @@
 
 [[backlinks]] (you can also create it later)
 
-![]
+![alternate text just in case does not load]
 
