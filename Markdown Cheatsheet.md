@@ -15,6 +15,12 @@
 
 *Italics*
 
+~~strikethrough text with two Tylde~~
+
+
+==two equal signs highlight text==
+
+
 - it is a Bullet 1
 	- nested item with tab
 	- 
@@ -26,10 +32,9 @@
 [[backlinks]] (you can also create it later)
 
 [link text](https://google.com)
+==
 
-==two equal signs highlight text==
 
-~~strikethrough text with two Tylde~~
 
 
 - [ ] checklist with two big brackets put a x inside to cross
