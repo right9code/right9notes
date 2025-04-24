@@ -1,1 +1,1 @@
-#33 Django GraphQL
+# Django GraphQL
